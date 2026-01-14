@@ -4,10 +4,10 @@ El/la estafador/a usa una tarjeta robada y hace un bizum de una cantidad no muy 
 ## ¿Como podemos evitar caer en esta estafa y perder nuestro dinero?
 Si nos ocurre esto lo más seguro es llamar a nuestro gestor personal del banco y comentarle la situación para que la gestionen ellos y si el dinero que te ha llegado no se devolvera, si no es así simplemente se devolverá la cantidad.
 
-[Bizum](https://bizum.com/es/blog/estafa-bizum/).
+[Bizum](https://bizum.com/es/blog/estafa-bizum/)
 
-[Business Insider](https://www.businessinsider.es/finanzas-personales/pasa-recibes-bizum-error-policia-solo-delito-1473227?).
+[Business Insider](https://www.businessinsider.es/finanzas-personales/pasa-recibes-bizum-error-policia-solo-delito-1473227?)
 
-[Madridinforma](https://madridinforma.eldiario.es/asi-funciona-el-timo-del-bizum-inverso-que-ya-circula-en-apps-de-compraventa-y-esta-dejando-un-reguero-de-afectados/?).
+[Madridinforma](https://madridinforma.eldiario.es/asi-funciona-el-timo-del-bizum-inverso-que-ya-circula-en-apps-de-compraventa-y-esta-dejando-un-reguero-de-afectados/?)
 
 ![Logo](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bizum-4135175.jpg?tf=3840x)
