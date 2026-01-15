@@ -25,3 +25,16 @@ Algunos de los ejemplos mas conocidos son:
 Suelen estar prohibidos y estan penados con baneos indefinidos, o incluso con multas depende del país y del contexto en el que se usen.
 ## Mods creados por la comunidad que ofrecen una mejor experiencia
 Son usados para cmabiar o mejorar el juego añadiendo: misiones, extensiones del mapa, historias y personajes, mejores gráficos o  rendimiento y cambios en la jugabilidad normal del gameplay.
+
+## Un ejemplo de todos estos casos
+El troyano que robaba cuentas de World of Warcraft (2007–2008)
+
+Entre los años 2007 y 2008, la comunidad de World of Warcraft fue víctima de uno de los ataques de malware más conocidos en la historia de los videojuegos online. Se trataba de un troyano diseñado específicamente para robar cuentas, oro virtual y objetos valiosos de los jugadores.
+
+Este malware se distribuía principalmente a través de falsos cheats, hacks y supuestos mods, que prometían ventajas como oro infinito, mejores armas o mejoras automáticas del personaje. Una vez instalado, el troyano funcionaba como un keylogger, registrando las pulsaciones del teclado para capturar usuarios y contraseñas de Battle.net.
+
+Muchos jugadores notaban el ataque al iniciar sesión y descubrir que sus personajes habían sido vaciados por completo: sin oro, sin objetos y, en algunos casos, con la cuenta suspendida temporalmente por actividad sospechosa.
+
+Blizzard Entertainment tuvo que intervenir reforzando sus sistemas de seguridad, restaurando cuentas afectadas y alertando a la comunidad sobre los peligros de descargar software no oficial. Este caso se convirtió en un ejemplo claro de los riesgos asociados al uso de cheats y hacks, especialmente en juegos online.
+
+El incidente marcó un antes y un después en la concienciación sobre ciberseguridad en videojuegos, impulsando el uso de autenticadores, mejores sistemas anti-cheat y una mayor educación digital entre los jugadores.
